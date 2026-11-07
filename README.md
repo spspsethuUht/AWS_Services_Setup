@@ -3,7 +3,7 @@
 This repository contains step-by-step notes and examples for setting up core AWS services.  
 It is intended as a quick reference for students, developers, and SRE/DevOps professionals.
 
----
+
 
 ##  Contents
 1. IAM Users Setup
@@ -12,12 +12,12 @@ It is intended as a quick reference for students, developers, and SRE/DevOps pro
 3. S3 Bucket Creation
 4. New Policy Setup
 
----
+
 
 ##  Getting Started
 Clone the repository to your local machine:
 
-```bash
+
 git clone https://github.com/spspsethuUht/AWS_Services_Setup.git
 cd AWS_Services_Setup
 1. IAM Users Setup
@@ -64,6 +64,4 @@ Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-
----
 
